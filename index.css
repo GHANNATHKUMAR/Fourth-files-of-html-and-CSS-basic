@@ -1,0 +1,13 @@
+#div1{
+    height: 440px;
+    background-image: url(iccchallenge.webp);
+    background-size: cover;
+}
+#DIV2{
+    padding-top: 20PX;
+    padding-left: 20PX;
+    padding-right: 20PX;
+}
+P{
+    font-size: large;
+}
